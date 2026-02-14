@@ -1,0 +1,23 @@
+I chose these style changes to improve clarity and readability while the user reads the website.
+I started with the body font because typography shapes the mood of a page and affects readability. 
+Helvetica has a sans serif look and gives the interface a clean and easy to read look. 
+Removing the default margin lets the header stretch across the full width of the screen, creating a a cleaner look at the top of the page.
+
+The header design focuses attention on site identity. 
+A maroon background with white text creates a contrast, which allows for a clear title and makes the title easier to read from a distance. 
+Increasing the font size shows its importance and helps people who visit quickly recognize where they are on the site.
+
+I added padding to headings and paragraphs to keep the text from being too close together. 
+Small spacing adjustments reduce visual noise and allow for easier reading. 
+Many visitors skim webpages, so readable spacing helps them locate details in the different sections of the site.
+
+Image styling received a change because images often interrupt the readability of the site. 
+Adding margin creates space around each image so text does not sit too close to the edge. 
+Padding inside the border separates the picture from the frame, which looks better than if it was close to the edge. 
+The light gray border acts as a container for the image, helping users seperate imagea from main text.
+
+Color highlights on bold and emphasized text serve as a highlight for those parts. 
+Dark green and dark sea green highlightimportant terms, while the yellow and orange combination draws attention to emphasis without blending into the text. 
+These color choices support easy reading and help users notice definitions and important features.
+
+Overall, each decision focuses on structure and readability to create a better viewing experience for the user
